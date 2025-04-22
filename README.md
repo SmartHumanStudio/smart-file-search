@@ -25,4 +25,4 @@ Smart File Search is a fast and intelligent desktop app for finding text in mult
 
 📧 Contact: [smarthuman@mail.com](mailto:smarthuman@mail.com)  
 🌐 Website: [www.SmartHuman.app](https://www.SmartHuman.app)  
-© 2025 SmartHuman Studio Inc
+© 2025 Smart Human Studio Inc
