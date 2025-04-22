@@ -1,1 +1,1 @@
-Smart File Search by SmartHuman Studio 
+"# Smart File Search" 
