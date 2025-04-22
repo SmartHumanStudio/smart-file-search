@@ -2,7 +2,7 @@
 
 Smart File Search is a fast and intelligent desktop app for finding text in multiple file types across multiple folders.
 
-🚀 Built with Python & Tkinter by **Smart Human Studio Inc**
+🚀 Built with Python by **Smart Human Studio Inc**
 
 ## 🔧 Features
 - 🔍 Multi-folder, multi-extension search
